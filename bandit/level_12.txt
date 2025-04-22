@@ -1,0 +1,8 @@
+// This one was a lot of commands CBA pasting it all here basically 
+// First move data into tmp as will be making a lot of files (tmp in root)
+// Next do xxd -reverse data.txt data2
+// Check file type of data2 now using file -> was compressed using gz
+// Rename it to gz extension mv data2 data2.gz
+// Unzip gunzip data2.gz
+// Keep repeating will be bzip tar archive etc and eventually will be file
+// tar -xf data5.bin is for tar

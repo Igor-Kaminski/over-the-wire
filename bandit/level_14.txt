@@ -1,0 +1,5 @@
+
+nmap -p 30000 localhost // To find out what type of connection it is SSH TCP or what? will say TCP can use nc 
+
+echo "MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS" | nc localhost 30000
+

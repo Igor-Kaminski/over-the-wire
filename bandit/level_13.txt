@@ -1,0 +1,1 @@
+ssh -i sshkey.private bandit14@localhost -p 2220
